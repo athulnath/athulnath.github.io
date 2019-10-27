@@ -1,1 +1,1 @@
-alert("hello world!!");
+alert("hello world!! mykey:" + localStorage.getItem("mykey"));
